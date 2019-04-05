@@ -1,0 +1,111 @@
+{
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebba"
+	},
+	"name": "bode APP",
+	"introduce": "项目简介：这是一款音乐社交性APP,产品界面设计及整体视觉效果呈现都是比较符合产品定位…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/banner.png",
+	"time": "2017.3-2017.6",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/01.png", 
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/02.png", 
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/03.png", 
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/04.png", 
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/05.png", 
+
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/06.png", 
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/07.png", 
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/08.png", 
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/bode/09.png"
+	]
+} {
+
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebbc"
+	},
+	"name": "心田",
+	"introduce": "项目介绍：心田项目主做农业物联网大数据，大型农业基地的设备都可以通过这个APP远程监测和操控，当时负责心田项目的从0～1的界面设计，后台设计，视觉VI设计及运营的部分图片设计…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/心田/banner.png",
+	"time": "2017.9-2018.5",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/心田/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/心田/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/心田/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/心田/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/心田/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/心田/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/心田/07.png"]
+} {
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebbe"
+	},
+	"name": "AMAZFIT",
+	"introduce": "项目介绍：这是一款可以替代手机部分功能的手表，主要是为了方便运动中的你，可以时时监测你的状态，有多个表盘模式可供选择…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/AMAZFIT/banner.png",
+	"time": "2018.3-2018.3",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/AMAZFIT/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/AMAZFIT/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/AMAZFIT/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/AMAZFIT/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/AMAZFIT/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/AMAZFIT/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/AMAZFIT/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/AMAZFIT/08.png"]
+} {
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebc0"
+	},
+	"name": "司麦",
+	"introduce": "项目介绍：司麦-一家致力于健康生活，粗粮为主的甜品品牌，有多家线下店面…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/banner.png",
+	"time": "2017-2018",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/08.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/09.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/司麦/10.png"]
+} {
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebc2"
+	},
+	"name": "音悦台改版",
+	"introduce": "项目介绍：将音悦台的移动端和PC端做了一个小小的改版…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/banner.png",
+	"time": "2017-2018",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/08.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/音悦台/09.png"]
+} {
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebc4"
+	},
+	"name": "Octopus Play",
+	"introduce": "项目介绍：这是一款游戏界面设计，在此展示的是除游戏中以外的界面设计…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/Octopus/banner.png",
+	"time": "2018.6-2018.8",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/Octopus/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/Octopus/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/Octopus/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/Octopus/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/Octopus/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/Octopus/06.png"]
+} {
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebc6"
+	},
+	"name": "畅享阅读",
+	"introduce": "项目介绍：为用户提供极致阅读体验，推荐合适的书籍，即可看书也可找书听书…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/banner.png",
+	"time": "2015.8-2015.12",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/08.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/09.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/10.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/11.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/12.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/13.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/14.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/15.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/16.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/17.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/18.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/19.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/20.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/21.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/畅享阅读/22.png"]
+} {
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebc8"
+	},
+	"name": "KTV点歌系统",
+	"introduce": "项目介绍：此系统集点歌、开趴、游戏、服务、活动等多功能于一体的点歌系统，面向90后年轻群体，支持手机智能远程操控，无线点歌…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/KTV/banner.png",
+	"time": "2017.1-2017.1",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/KTV/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/KTV/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/KTV/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/KTV/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/KTV/05.png"]
+} {
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebca"
+	},
+	"name": "看座APP",
+	"introduce": "项目介绍：这是一款提供影视资讯和各大影院订票服务的APP…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/banner.png",
+	"time": "2016.4-2016.4",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/08.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/看座/09.png"]
+} {
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebcc"
+	},
+	"name": "囧客APP",
+	"introduce": "项目介绍：这是一款只要带上它就可以说走就走的APP,无论你去哪里你都不会迷路，找不到吃饭，住宿的地方，还可拍出美美的照…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/banner.png",
+	"time": "2016.8-2016.11",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/08.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/09.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/10.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/囧客/11.png"]
+} {
+	"_id": {
+		"$oid": "5ca7799ebffba5a917e9ebce"
+	},
+	"name": "网站合集",
+	"introduce": "项目介绍：将2015-至今所做的网站做了一个合集，为了方便展示…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/banner.png",
+	"time": "2015-至今",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/08.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/09.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/10.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/11.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/12.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/13.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/project/网站合集/14.png"]
+}
