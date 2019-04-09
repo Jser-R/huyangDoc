@@ -1,121 +1,87 @@
 {
-	
+	"_id": {
+		"$oid": "5ca849eebffba5a917ed331f"
+	},
 	"name": "陈真VI设计",
 	"introduce": "内容介绍：主要包含了两部分，一部分是陈真logo/包装/吊牌等VI设计，第二部分是陈真的官网页面设计…",
 	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/banner.png",
 	"time": "2016.11-至今",
-	"images": [
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/01.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/02.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/03.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/04.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/05.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/06.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/07.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/08.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/09.png",
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/10.png",
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/11.png",
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/12.png",
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/13.png"
-	]
-} 
-{
-	
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/08.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/09.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/10.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/11.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/12.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/陈真/13.png"]
+} {
+	"_id": {
+		"$oid": "5ca849eebffba5a917ed3321"
+	},
 	"name": "ICON DESIGN",
 	"introduce": "内容介绍：icon设计是非常锻炼设计能力和基本功的，这是我从踏入UI门槛到现在的部分icon设计合集…",
 	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/banner.png",
 	"time": "2014-至今",
-	"images": [
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/01.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/02.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/03.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/04.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/05.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/06.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/07.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/08.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/09.png",
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/10.png",
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/11.png",
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/12.png"
-	]
-} 
-{
-	
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/08.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/09.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/10.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/11.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/ICONDESIGN/12.png"]
+} {
+	"_id": {
+		"$oid": "5ca849eebffba5a917ed3323"
+	},
 	"name": "兔世界旅行平面设计",
 	"introduce": "内容介绍：页面包含海报、banner、H5、官网、有赞商城页面设计，这是业余接的一个周期比较长的项目，兼职视觉设计师…",
 	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/banner01.png",
 	"time": "2017-2018",
-	"images": [
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/01.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/02.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/03.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/04.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/05.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/06.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/07.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/08.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/09.png",
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/10.png"
-	]
-} 
-{
-	
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/08.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/09.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/10.png"]
+} {
+	"_id": {
+		"$oid": "5ca849eebffba5a917ed3326"
+	},
 	"name": "兔世界旅行VI设计",
 	"introduce": "内容介绍：兔世界旅行主营自由行，年轻群体居多，所以选用了黑黄配色，页面包含logo、旅行用品设计等…",
 	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/banner02.png",
 	"time": "2017-2018",
-	"images": [
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/11.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/12.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/13.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/14.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/15.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/16.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/17.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/18.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/19.png"
-	]
-}
-{
-	
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/11.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/12.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/13.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/14.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/15.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/16.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/17.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/18.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/19.png"]
+} {
+	"_id": {
+		"$oid": "5ca849eebffba5a917ed3328"
+	},
 	"name": "兔世界旅行吉祥物设计",
 	"introduce": "内容介绍：页面包含兔世界旅行的3版吉祥物设计，以及部分衍生品的设计…",
 	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/banner03.png",
 	"time": "2017-2018",
-	"images": [
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/20.png",  
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/21.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/22.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/23.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/24.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/25.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/26.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/27.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/28.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/29.png",
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/30.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/31.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/32.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/33.png"
-
-		]
-} 
-{
-	
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/20.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/21.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/22.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/23.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/24.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/25.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/26.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/27.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/28.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/29.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/30.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/31.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/32.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/兔世界/33.png"]
+} {
+	"_id": {
+		"$oid": "5ca849eebffba5a917ed332a"
+	},
 	"name": "真有两把刷子平面设计",
 	"introduce": "内容介绍：页面主要包含在职期间做的部分平面设计，包括海报、H5等…",
 	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/banner.png",
 	"time": "2016.11-至今",
+	"images": ["https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/01.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/02.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/03.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/04.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/05.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/06.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/07.png", "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/08.png"]
+}
+{
+
+	"name": "KULEIMAN/米谷 VI设计",
+	"introduce": "内容介绍：页面包含KULEIMAN的logo/吉祥物/画册的视觉设计，以及米谷项目的VI设计…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/banner.png",
+	"time": "2014.8-2015.05",
 	"images": [
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/01.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/02.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/03.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/04.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/05.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/06.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/07.png", 
-		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/真有两把刷子/08.png"
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/01.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/02.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/03.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/04.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/05.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/06.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/07.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/08.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/09.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/KULEIMAN/10.png"
 	]
-} 
+}
+{
+
+	"name": "吉祥物设计",
+	"introduce": "内容介绍：页面主要包含吉祥物的手绘版、形象、表情…",
+	"image": "https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/吉祥物设计/banner.png",
+	"time": "2016.11-至今",
+	"images": [
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/吉祥物设计/01.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/吉祥物设计/02.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/吉祥物设计/03.png",
+		"https://6465-dev-d6b769-1258442598.tcb.qcloud.la/images/graphicDesign/吉祥物设计/04.png"
+	]
+}
